@@ -1,4 +1,4 @@
-# 31.5 Markov Machine
+# 31.5 | Markov Machine
 An algorithm for generating realistic machine-made text from an original source text. A Markov Machine emits output of a “Markov Chain.” A Markov Chain is a chain of possible outcomes, given a particular “state”.
 
 This Machine allows you to read in a text file or pass in a URL, as you can see in the following examples:
